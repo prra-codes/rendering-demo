@@ -4,3 +4,5 @@ export default function ServerRoutePage() {
   const result = serverSideFunction();
   return <h1>Server Route {result}</h1>;
 }
+
+// rewatched tailwind css video too
