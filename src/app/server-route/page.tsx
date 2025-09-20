@@ -6,3 +6,4 @@ export default function ServerRoutePage() {
 }
 
 // rewatched tailwind css video too
+// Reading through official TypeScript documentation
